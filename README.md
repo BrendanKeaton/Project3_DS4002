@@ -2,7 +2,18 @@
 
 ## SRC
 
-R script format. 
+Installing and Building Your Code:
+Requires R being downloaded. Also requires following libraries:
+- readr
+- ggplot2
+- dplyr
+- ggrepel
+- car
+
+Usage of your Code:
+Data Cleaning.R - Used for cleaning the data from the original NYPD.csv data set that can be used for the rest of our project. 
+
+Hypothesis Testing.R - Used for running tests on the data that will be used in our presentation.
 
 
 ## DATA
